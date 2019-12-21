@@ -1,5 +1,5 @@
 FROM nginx
 
 
-COPY html /usr/share/nginx/
+COPY html /usr/share/nginx/html
 
